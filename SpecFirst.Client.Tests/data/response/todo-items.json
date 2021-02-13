@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "todoListId": 0,
+    "name": "Create spec-first POC.",
+    "isComplete": true,
+    "additionalProperties": {}
+  },
+  {
+    "id": 2,
+    "todoListId": 0,
+    "name": "???",
+    "isComplete": false,
+    "additionalProperties": {}
+  },
+  {
+    "id": 3,
+    "todoListId": 0,
+    "name": "Profit.",
+    "isComplete": false,
+    "additionalProperties": {}
+  }
+]

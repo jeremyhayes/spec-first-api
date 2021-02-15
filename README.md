@@ -6,6 +6,10 @@ Uses [NSwag](https://github.com/RicoSuter/NSwag) tooling.
 
 # Getting Started
 
+## Prerequisites
+Install .NET 5.x SDK
+* https://dotnet.microsoft.com/download/dotnet/5.0
+
 ```
 # build solution, which will generate server/client code
 dotnet build
